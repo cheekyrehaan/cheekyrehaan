@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cheekyrehaan
-- 👀 I’m interested in your mom
 - 🌱 I’m currently learning nothing
 
 <!---
